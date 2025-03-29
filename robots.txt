@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vantreltools.github.io/sitemap.xml
